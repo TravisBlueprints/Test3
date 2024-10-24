@@ -8,6 +8,4 @@ title: Unique404
 
 ***
 
-test document...
-
-now let's try an edit
+test document!
